@@ -4823,7 +4823,7 @@ GameObject:
   - component: {fileID: 477007262}
   - component: {fileID: 477007261}
   m_Layer: 0
-  m_Name: BeamGround Charge
+  m_Name: BeamGround
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9855,8 +9855,8 @@ ParticleSystem:
     startColor:
       serializedVersion: 2
       minMaxState: 2
-      minColor: {r: 0.3210346, g: 0.2494215, b: 0.5566038, a: 1}
-      maxColor: {r: 1, g: 0.4481132, b: 0.85476667, a: 1}
+      minColor: {r: 0.3210346, g: 0.2494215, b: 0.5566038, a: 0.4627451}
+      maxColor: {r: 1, g: 0.4481132, b: 0.85476667, a: 0.7137255}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -14457,7 +14457,7 @@ GameObject:
   - component: {fileID: 1233501807}
   - component: {fileID: 1233501806}
   m_Layer: 0
-  m_Name: BeamGround Climax
+  m_Name: BeamImpact
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19486,8 +19486,8 @@ ParticleSystem:
     startColor:
       serializedVersion: 2
       minMaxState: 2
-      minColor: {r: 0.3210346, g: 0.2494215, b: 0.5566038, a: 1}
-      maxColor: {r: 1, g: 0.4481132, b: 0.85476667, a: 1}
+      minColor: {r: 0.3210346, g: 0.2494215, b: 0.5566038, a: 0.49803922}
+      maxColor: {r: 1, g: 0.4481132, b: 0.85476667, a: 0.73333335}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -24239,8 +24239,8 @@ ParticleSystem:
     startColor:
       serializedVersion: 2
       minMaxState: 2
-      minColor: {r: 0.3210346, g: 0.2494215, b: 0.5566038, a: 1}
-      maxColor: {r: 1, g: 0.4481132, b: 0.85476667, a: 1}
+      minColor: {r: 0.3210346, g: 0.2494215, b: 0.5566038, a: 0.4745098}
+      maxColor: {r: 1, g: 0.4481132, b: 0.85476667, a: 0.7137255}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -43485,7 +43485,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 2
       minColor: {r: 0.3210346, g: 0.2494215, b: 0.5566038, a: 0.23137255}
-      maxColor: {r: 1, g: 0.4481132, b: 0.85476667, a: 0.20784314}
+      maxColor: {r: 1, g: 0.4481132, b: 0.85476667, a: 0.5176471}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -53106,8 +53106,8 @@ ParticleSystem:
     startColor:
       serializedVersion: 2
       minMaxState: 2
-      minColor: {r: 0.3210346, g: 0.2494215, b: 0.5566038, a: 1}
-      maxColor: {r: 1, g: 0.4481132, b: 0.85476667, a: 1}
+      minColor: {r: 0.3210346, g: 0.2494215, b: 0.5566038, a: 0.35686275}
+      maxColor: {r: 1, g: 0.4481132, b: 0.85476667, a: 0.7137255}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
