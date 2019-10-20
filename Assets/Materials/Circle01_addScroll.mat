@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Impact03_AddScroll
+  m_Name: Circle01_addScroll
   m_Shader: {fileID: -6465566751694194690, guid: 4d3338af38f108a45a9315928961f77b,
     type: 3}
   m_ShaderKeywords: 
@@ -23,13 +23,13 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_F09CB343:
-        m_Texture: {fileID: 2800000, guid: 118d4dbf77c4af8489f59a6ccb1236da, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7a74a7b3272fc2b4695fe53ea2b29af7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_754968B4: 0.13
-    - Vector1_FD5E02CA: 6.42
+    - Vector1_754968B4: 0.05
+    - Vector1_FD5E02CA: 10
     m_Colors:
     - Color_3D97A63F: {r: 64, g: 64, b: 64, a: 1}
-    - Vector2_73F71D53: {r: 0.2, g: 0.2, b: 0, a: 0}
-    - Vector2_C793C24A: {r: 0.2, g: 0, b: 0, a: 0}
+    - Vector2_73F71D53: {r: 0.5, g: 0, b: 0, a: 0}
+    - Vector2_C793C24A: {r: 1, g: 0, b: 0, a: 0}
